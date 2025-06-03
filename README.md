@@ -4,11 +4,17 @@
 ### Phone Side
 1. Update Android Auto app.
 2. Open App Settings.
+![](./README_Photos/01.jpeg)
 3. Scroll down to version, click it several times until you unlock Developers' settings.
+![](./README_Photos/02.jpeg)
 4. Click on the 3 dots at the top right corner and choose Developer Settings.
+![](./README_Photos/03.jpeg)
 5. Click on Android Mode, choose Developer.
+![](./README_Photos/04.jpeg)
 6. Enable Unknown Resources.
+![](./README_Photos/05.jpeg)
 7. Go back, Then click on the 3 dots at the top right corner and Start Head Unit Server.
+![](./README_Photos/06.jpeg)
 
 ### PC Side
 1. Install Dependencies:
